@@ -1,0 +1,17 @@
+﻿Software Usage License and Disclaimer of Liability
+
+This software is provided for use on an "as-is" basis. You may use the software for your personal or internal purposes only. You are not granted any rights to modify, distribute, or sublicense the software.
+
+The source code for this software is not provided, and you may not reverse engineer, decompile, or otherwise attempt to access or extract the source code in any way.
+
+All other rights are reserved by the copyright holder.
+
+TKronix disclaims all liability and responsibility for any consequences, including but not limited to, any bans, losses, or damages that may result from the use of this software. By using this software, you agree that TKronix shall not be held liable for any such consequences.
+
+TKronix makes no warranties, express or implied, regarding the fitness of this software for any particular purpose or the accuracy of the software's results.
+
+TKronix recommends that you use this software responsibly and in compliance with all applicable laws and regulations.
+
+TKronix reserves the right to modify or terminate the availability of this software at any time without notice.
+
+TKronix

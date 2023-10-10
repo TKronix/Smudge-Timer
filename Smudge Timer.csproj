@@ -8,6 +8,16 @@
     <UseWPF>true</UseWPF>
     <SignAssembly>False</SignAssembly>
     <Description>Just a Smudge timer for Phasmophobia and can be used for anything tbh as its just a timer</Description>
+    <Copyright>Provided in the LICENSE.txt</Copyright>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="LICENSE.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="README.md">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
 
 </Project>
